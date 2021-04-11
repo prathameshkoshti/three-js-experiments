@@ -5,6 +5,7 @@ module.exports = {
         helloCube: './src/hello-cube/index.js',
         drawingLines: './src/drawing-lines/index.js',
         helloCubeExtended: './src/hello-cube-extended/index.js',
+        geometryBox: './src/geometry-box/index.js',
     },
     output: {
         filename: '[name].js',
