@@ -7,7 +7,8 @@ module.exports = {
         helloCubeExtended: './src/hello-cube-extended/index.js',
         geometryBox: './src/geometry-box/index.js',
         geometryCircle: './src/geometry-circle/index.js',
-        geometryCone: './src/geometry-cone/index.js'
+        geometryCone: './src/geometry-cone/index.js',
+        geometryCylinder: './src/geometry-cylinder/index.js',
     },
     output: {
         filename: '[name].js',
