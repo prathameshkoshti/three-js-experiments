@@ -9,6 +9,7 @@ module.exports = {
         geometryCircle: './src/geometry-circle/index.js',
         geometryCone: './src/geometry-cone/index.js',
         geometryCylinder: './src/geometry-cylinder/index.js',
+        geometryDodecahadron: './src/geometry-dodecahadron/index.js'
     },
     output: {
         filename: '[name].js',
